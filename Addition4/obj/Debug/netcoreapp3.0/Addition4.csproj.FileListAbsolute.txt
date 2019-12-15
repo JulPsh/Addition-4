@@ -1,0 +1,11 @@
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.exe
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.deps.json
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.runtimeconfig.json
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.runtimeconfig.dev.json
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.dll
+C:\Users\юлия\source\repos\Addition4\Addition4\bin\Debug\netcoreapp3.0\Addition4.pdb
+C:\Users\юлия\source\repos\Addition4\Addition4\obj\Debug\netcoreapp3.0\Addition4.csprojAssemblyReference.cache
+C:\Users\юлия\source\repos\Addition4\Addition4\obj\Debug\netcoreapp3.0\Addition4.AssemblyInfoInputs.cache
+C:\Users\юлия\source\repos\Addition4\Addition4\obj\Debug\netcoreapp3.0\Addition4.AssemblyInfo.cs
+C:\Users\юлия\source\repos\Addition4\Addition4\obj\Debug\netcoreapp3.0\Addition4.dll
+C:\Users\юлия\source\repos\Addition4\Addition4\obj\Debug\netcoreapp3.0\Addition4.pdb
